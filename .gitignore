@@ -1,0 +1,9 @@
+videos/
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# ffmpeg local build
+ffmpeg*/
